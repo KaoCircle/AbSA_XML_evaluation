@@ -8,3 +8,12 @@ To execute, run the following command:
 python xmlEvaluation.py path/to/label path/to/prediction [relevance/sentiment/OTE]
 ```
 
+For more details on the corpus, please refer to:
+
+http://ltdata1.informatik.uni-hamburg.de/germeval2017/
+
+https://github.com/DFKI-NLP/sim3s-corpus
+
+The germeval_test_syn.xml is a modified version by the script here.
+
+https://github.com/KaoCircle/modified_GermEval17
